@@ -1,0 +1,14 @@
+#Banner {
+    background-color: darkgreen;
+  
+}
+
+#Name {
+    font-family: fantasy;
+}
+    
+#foto {
+    border: 2px solid rgb(14, 15, 14);
+    border-radius: 200px
+
+}
